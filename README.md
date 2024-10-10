@@ -46,3 +46,20 @@ Quelques critères à garder en tête :
 
 - Ne vous focalisez pas sur la qualité des données récupérées de l'API Lucca; l'objectif ici est principalement sur la structure et qualité du job d'ingestion des données.
 - Si vous avez un point de bloquage, n'hésitez pas à contacter l'équipe Reflect pour obtenir de l'aide !
+
+# Consignes d'execution
+
+- Définir les variables d'environnements :
+
+`export URL_API_LUCCA=<url>`
+`export TOKEN_API_LUCCA=<token`
+
+- Installer les libraires :
+
+`pip install -r librairies.txt`
+
+- Exectuer le code :) :
+
+`python3 ingestion.py`
+
+Merci !
