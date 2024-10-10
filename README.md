@@ -52,13 +52,13 @@ Quelques critères à garder en tête :
 - Définir les variables d'environnements :
 
 `export URL_API_LUCCA=<url>`
-`export TOKEN_API_LUCCA=<token`
+`export TOKEN_API_LUCCA=<token>`
 
 - Installer les libraires :
 
 `pip install -r librairies.txt`
 
-- Exectuer le code :) :
+- Exéctuer le code d'ingestion :) :
 
 `python3 ingestion.py`
 
