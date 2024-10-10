@@ -54,7 +54,7 @@ Quelques critères à garder en tête :
 `export URL_API_LUCCA=<url>`
 `export TOKEN_API_LUCCA=<token>`
 
-- Installer les libraires :
+- Installer les librairies :
 
 `pip install -r librairies.txt`
 
